@@ -1,5 +1,5 @@
 
-## 👋 Hello, I'm [Your Name]!
+## 👋 Hello, I'm Mohammed Ammar
 
 ![Welcome Banner](https://your-banner-image-url.com)
 
@@ -32,7 +32,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)  
 
-📫 **Email:** your.email@example.com
+📫 **Email:** mohammedammar.sde@gmail.com
 
 ---
 
